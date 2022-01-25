@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928304570597",
+    "project_id": "krsnaism-e4462",
+    "storage_bucket": "krsnaism-e4462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928304570597:android:8e77788499f2115506b40c",
+        "android_client_info": {
+          "package_name": "com.example.krsnaism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928304570597-cqqa1ls4tf54pn7kbgfc8bvj7juokfr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QGyUEvLnQp9MNtrTLLyu_rg-QWx3v-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928304570597-cqqa1ls4tf54pn7kbgfc8bvj7juokfr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

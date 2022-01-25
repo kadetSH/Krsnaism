@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Krsnaism</string>
     <string name="chat">Чат</string>
+
+    <!--  Fragment registration-->
+    <string name="fragment_registration_label_title">Регистрация</string>
+    <string name="fragment_registration_label_nickname">Ник</string>
+    <string name="fragment_registration_label_city">Город</string>
+    <!--    -->
+
 </resources>
